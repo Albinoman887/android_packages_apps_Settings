@@ -14405,15 +14405,7 @@
     <string name="bt_le_audio_qr_code_is_not_valid_format">QR code isn\u0027t a valid format</string>
 
     <!-- Face Unlock -->
-    <string name="security_settings_face_enroll_consent_introduction_title">Allow Face Unlock</string>
-    <string name="security_settings_face_enroll_dialog_ok">OK</string>
-    <string name="security_settings_face_enroll_done">Done</string>
-    <string name="security_settings_face_enroll_education_accessibility_dialog_message">If accessibility Face Unlock is turned off, some setup steps may not work properly with TalkBack.</string>
-    <string name="security_settings_face_enroll_education_accessibility_dialog_negative">Go back</string>
-    <string name="security_settings_face_enroll_education_accessibility_dialog_positive">Continue setup</string>
-    <string name="security_settings_face_enroll_education_message">On the next screen, rotate your head to capture all angles of your face</string>
     <string name="security_settings_face_enroll_education_message_accessibility">On the next screen, hold your phone at eye level</string>
-    <string name="security_settings_face_enroll_education_start">Start</string>
     <string name="security_settings_face_enroll_education_title">How to set up Face Unlock</string>
     <string name="security_settings_face_enroll_education_title_accessibility">Set up Face Unlock</string>
     <string name="security_settings_face_enroll_education_title_unlock_disabled">Use your face to authenticate</string>
